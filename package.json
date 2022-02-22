@@ -1,0 +1,16 @@
+{
+  "name": "node-conceptJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/patrickzequiel/node-conceptJs.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
